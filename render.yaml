@@ -1,0 +1,36 @@
+# Render Blueprint for Krishi Mitra Production Deployment
+services:
+  # Krishi Mitra FastAPI Backend Web Service
+  - type: web
+    name: krishi-mitra-backend
+    runtime: python
+    region: oregon
+    plan: free
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /healthz
+    envVars:
+      - key: ENVIRONMENT
+        value: production
+      - key: DEMO_MODE
+        value: "true"
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: GEMINI_MODEL
+        value: gemini-2.5-flash
+      - key: SARVAM_API_KEY
+        sync: false
+      - key: SARVAM_BASE_URL
+        value: https://api.sarvam.ai
+      - key: SARVAM_STT_MODEL
+        value: saaras:v2
+      - key: SARVAM_TTS_MODEL
+        value: bulbul:v1
+      - key: SARVAM_TTS_SPEAKER
+        value: meera
+      - key: CORS_ORIGINS
+        value: "https://krishi-mitra.vercel.app,https://krishi-mitra-frontend.vercel.app,http://localhost:5173"
+      - key: MAX_AUDIO_UPLOAD_SIZE_MB
+        value: "15"
+

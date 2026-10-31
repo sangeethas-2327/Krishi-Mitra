@@ -1,0 +1,32 @@
+{
+  "short_name": "Krishi Mitra",
+  "name": "Krishi Mitra (ಕೃಷಿ ಮಿತ್ರ) — The Living Farm Companion",
+  "description": "Vernacular AI Companion & Government Schemes Guide for Karnataka Farmers",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48 32x32 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FAF7F0",
+  "theme_color": "#183B2B",
+  "display": "standalone",
+  "orientation": "portrait"
+}

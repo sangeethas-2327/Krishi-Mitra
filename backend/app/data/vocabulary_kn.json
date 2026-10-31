@@ -1,0 +1,567 @@
+{
+  "crops": {
+    "ಅಡಿಕೆ": "arecanut",
+    "ಅಡಕೆ": "arecanut",
+    "ಅಡಿಕೆ ಬೆಳೆ": "arecanut",
+    "ಸುಪಾರಿ": "arecanut",
+    "areca": "arecanut",
+    "arecanut": "arecanut",
+    "adike": "arecanut",
+    "adikeya": "arecanut",
+    "betel nut": "arecanut",
+    "betelnut": "arecanut",
+    "supari": "arecanut",
+
+    "ಭತ್ತ": "paddy",
+    "ಅಕ್ಕಿ": "paddy",
+    "ಭತ್ತದ ಬೆಳೆ": "paddy",
+    "paddy": "paddy",
+    "rice": "paddy",
+    "bhatta": "paddy",
+    "battha": "paddy",
+    "nellu": "paddy",
+
+    "ರಾಗಿ": "ragi",
+    "ರಾಗಿ ಬೆಳೆ": "ragi",
+    "ragi": "ragi",
+    "raagi": "ragi",
+    "finger millet": "ragi",
+    "millet": "ragi",
+
+    "ಜೋಳ": "jowar",
+    "ಬಿಳಿ ಜೋಳ": "jowar",
+    "ಹಿಂಗಾರು ಜೋಳ": "jowar",
+    "jowar": "jowar",
+    "sorghum": "jowar",
+    "jola": "jowar",
+    "jowari": "jowar",
+
+    "ಮೆಕ್ಕೆಜೋಳ": "maize",
+    "ಮುಸುಕಿನ ಜೋಳ": "maize",
+    "ಜೋಳದ ತೆನೆ": "maize",
+    "maize": "maize",
+    "corn": "maize",
+    "mekke jola": "maize",
+    "sweet corn": "maize",
+
+    "ಕಬ್ಬು": "sugarcane",
+    "ಕಬ್ಬಿನ ತೋಟ": "sugarcane",
+    "sugarcane": "sugarcane",
+    "kabbu": "sugarcane",
+    "cane": "sugarcane",
+
+    "ಹತ್ತಿ": "cotton",
+    "ಹತ್ತಿ ಬೆಳೆ": "cotton",
+    "cotton": "cotton",
+    "hatti": "cotton",
+    "kapas": "cotton",
+
+    "ನೆಲಗಡಲೆ": "groundnut",
+    "ಕಡಲೆಕಾಯಿ": "groundnut",
+    "ಶೇಂಗಾ": "groundnut",
+    "ಶೇಂಗಾ ಬೆಳೆ": "groundnut",
+    "groundnut": "groundnut",
+    "peanut": "groundnut",
+    "shenga": "groundnut",
+    "kadlekai": "groundnut",
+
+    "ತೊಗರಿ": "redgram",
+    "ತೊಗರಿ ಬೇಳೆ": "redgram",
+    "redgram": "redgram",
+    "pigeon pea": "redgram",
+    "togari": "redgram",
+    "tur": "redgram",
+    "arhar": "redgram",
+
+    "ಹೆಸರು": "greengram",
+    "ಹೆಸರು ಕಾಳು": "greengram",
+    "greengram": "greengram",
+    "moong": "greengram",
+    "hesaru": "greengram",
+
+    "ಉದ್ದು": "blackgram",
+    "ಉದ್ದಿನ ಬೆಳೆ": "blackgram",
+    "blackgram": "blackgram",
+    "urad": "blackgram",
+    "uddu": "blackgram",
+
+    "ಕಡಲೆ": "chickpea",
+    "ಕಡಲೆ ಕಾಳು": "chickpea",
+    "chickpea": "chickpea",
+    "chana": "chickpea",
+    "kadale": "chickpea",
+
+    "ಕಾಫಿ": "coffee",
+    "ಕಾಫಿ ತೋಟ": "coffee",
+    "coffee": "coffee",
+    "kaapi": "coffee",
+    "robusta": "coffee",
+    "arabica": "coffee",
+
+    "ಏಲಕ್ಕಿ": "cardamom",
+    "cardamom": "cardamom",
+    "elakki": "cardamom",
+    "elaichi": "cardamom",
+
+    "ಮೆಣಸು": "pepper",
+    "ಕಾಳುಮೆಣಸು": "pepper",
+    "black pepper": "pepper",
+    "pepper": "pepper",
+    "menasu": "pepper",
+    "karimenasu": "pepper",
+
+    "ತೆಂಗು": "coconut",
+    "ತೆಂಗಿನಕಾಯಿ": "coconut",
+    "ತೆಂಗಿನ ತೋಟ": "coconut",
+    "coconut": "coconut",
+    "thengu": "coconut",
+    "thenginakayi": "coconut",
+    "ಕೊಬ್ಬರಿ": "coconut",
+
+    "ಬಾಳೆ": "banana",
+    "ಬಾಳೆಗಿಡ": "banana",
+    "ಬಾಳೆಹಣ್ಣು": "banana",
+    "banana": "banana",
+    "bale": "banana",
+    "baale": "banana",
+    "plantain": "banana",
+
+    "ಈರುಳ್ಳಿ": "onion",
+    "ಉಳ್ಳಾಗಡ್ಡಿ": "onion",
+    "onion": "onion",
+    "eerulli": "onion",
+    "ullagaddi": "onion",
+
+    "ಶುಂಠಿ": "ginger",
+    "ginger": "ginger",
+    "shunti": "ginger",
+
+    "ಅರಿಶಿನ": "turmeric",
+    "turmeric": "turmeric",
+    "arishina": "turmeric",
+    "haldi": "turmeric",
+
+    "ಟೊಮೇಟೊ": "tomato",
+    "tomato": "tomato",
+    "thometo": "tomato",
+
+    "ಮೆಣಸಿನಕಾಯಿ": "chili",
+    "ಹಸಿಮೆಣಸಿನಕಾಯಿ": "chili",
+    "ಒಣಮೆಣಸಿನಕಾಯಿ": "chili",
+    "chili": "chili",
+    "chilli": "chili",
+    "menasinakayi": "chili",
+
+    "ದ್ವಿದಳ ಧಾನ್ಯ": "pulses",
+    "ಕಾಳುಗಳು": "pulses",
+    "pulses": "pulses",
+
+    "ಎಣ್ಣೆಕಾಳು": "oilseeds",
+    "oilseeds": "oilseeds",
+
+    "ತರಕಾರಿ": "vegetables",
+    "ತರಕಾರಿಗಳು": "vegetables",
+    "vegetables": "vegetables",
+    "veggies": "vegetables"
+  },
+
+  "ambiguous_crop_terms": {
+    "ಜೋಳ": {
+      "possible_crops": ["jowar", "maize"],
+      "clarification_question": "Do you cultivate white Jowar (Sorghum) or Maize (Corn)?",
+      "clarification_question_kn": "ನೀವು ಬೆಳೆಯುವುದು ಬಿಳಿ ಜೋಳವೋ (Sorghum) ಅಥವಾ ಮೆಕ್ಕೆಜೋಳವೋ (Maize)?"
+    },
+    "ಕಾಳುಗಳು": {
+      "possible_crops": ["redgram", "greengram", "blackgram", "chickpea"],
+      "clarification_question": "Which pulse or grain crop are you cultivating (Redgram, Greengram, Blackgram, or Chickpea)?",
+      "clarification_question_kn": "ನೀವು ಯಾವ ದ್ವಿದಳ ಧಾನ್ಯ ಬೆಳೆಯುತ್ತಿದ್ದೀರಿ (ತೊಗರಿ, ಹೆಸರು, ಉದ್ದು ಅಥವಾ ಕಡಲೆ)?"
+    }
+  },
+
+  "land_units": {
+    "ಎಕರೆ": "acre",
+    "ಎಕ್ರೆ": "acre",
+    "ಎಕರ": "acre",
+    "acres": "acre",
+    "acre": "acre",
+    "ekare": "acre",
+    "ekar": "acre",
+
+    "ಗುಂಟೆ": "guntha",
+    "ಗುಂಟಾ": "guntha",
+    "guntha": "guntha",
+    "gunthas": "guntha",
+    "gunta": "guntha",
+    "guntas": "guntha",
+    "gunte": "guntha",
+
+    "ಹೆಕ್ಟೇರ್": "hectare",
+    "ಹೆಕ್ಟೇರು": "hectare",
+    "hectare": "hectare",
+    "hectares": "hectare",
+    "hektere": "hectare",
+    "hektaar": "hectare",
+
+    "ಸೆಂಟು": "cent",
+    "ಸೆಂಟ್": "cent",
+    "cent": "cent",
+    "cents": "cent",
+    "sentu": "cent",
+
+    "ಬಿಘಾ": "bigha",
+    "bigha": "bigha"
+  },
+
+  "unit_conversions_to_acres": {
+    "acre": 1.0,
+    "guntha": 0.025,
+    "hectare": 2.47105,
+    "cent": 0.01,
+    "bigha": 0.625
+  },
+
+  "kannada_numbers": {
+    "ಅರ್ಧ": 0.5,
+    "ಕಾಲು": 0.25,
+    "ಮುಕ್ಕಾಲು": 0.75,
+    "ಒಂದು": 1.0,
+    "ಒಂದೂವರೆ": 1.5,
+    "ಎರಡು": 2.0,
+    "ಎರಡೂವರೆ": 2.5,
+    "ಮೂರು": 3.0,
+    "ಮೂರಾವರೆ": 3.5,
+    "ನಾಲ್ಕು": 4.0,
+    "ನಾಲ್ಕೂವರೆ": 4.5,
+    "ಐದು": 5.0,
+    "ಆರು": 6.0,
+    "ಏಳು": 7.0,
+    "ಎಂಟು": 8.0,
+    "ಒಂಬತ್ತು": 9.0,
+    "ಹತ್ತು": 10.0,
+    "ಹನ್ನೆರಡು": 12.0,
+    "ಹದಿನೈದು": 15.0,
+    "ಇಪ್ಪತ್ತು": 20.0,
+    "ಇಪ್ಪತ್ತೈದು": 25.0
+  },
+
+  "ownership": {
+    "ಸ್ವಂತ": "owned",
+    "ನಮ್ಮದೇ": "owned",
+    "ಸ್ವಂತದ್ದು": "owned",
+    "ಖಾಸಗಿ": "owned",
+    "ಸ್ವತಃ": "owned",
+    "owner": "owned",
+    "owned": "owned",
+    "owner cultivator": "owned",
+    "swanta": "owned",
+    "swatha": "owned",
+
+    "ಗುತ್ತಿಗೆ": "tenant",
+    "ಗುತ್ತಿಗೆಗೆ": "tenant",
+    "ಗುತ್ತಿಗೆದಾರ": "tenant",
+    "ಕೌಲು": "tenant",
+    "tenant": "tenant",
+    "tenant farmer": "tenant",
+    "guttige": "tenant",
+    "koulu": "tenant",
+
+    "ಲೀಸ್": "leased",
+    "ಬಾಡಿಗೆ": "leased",
+    "lease": "leased",
+    "leased": "leased",
+
+    "ಪಾಲುದಾರಿಕೆ": "sharecropper",
+    "ಪಾಲು": "sharecropper",
+    "ಪಾಲು ಬೆಳೆಗಾರ": "sharecropper",
+    "sharecropper": "sharecropper",
+    "paalu": "sharecropper",
+    "bhagidari": "sharecropper",
+
+    "ಜಂಟಿ": "joint_owned",
+    "ಪಾಲುದಾರ": "joint_owned",
+    "ಜಂಟಿ ಮಾಲೀಕತ್ವ": "joint_owned",
+    "joint": "joint_owned",
+    "joint owned": "joint_owned",
+    "joint family": "joint_owned"
+  },
+
+  "irrigation_sources": {
+    "ಬೋರ್‌ವೆಲ್": "borewell",
+    "ಬೋರ್": "borewell",
+    "ಕೊಳವೆಬಾವಿ": "borewell",
+    "borewell": "borewell",
+    "bore well": "borewell",
+    "tube well": "borewell",
+
+    "ತೆರೆದ ಬಾವಿ": "open_well",
+    "ಬಾವಿ": "open_well",
+    "well": "open_well",
+    "open well": "open_well",
+    "bavi": "open_well",
+
+    "ಕಾಲುವೆ": "canal",
+    "ನಾಲೆ": "canal",
+    "canal": "canal",
+    "kaluve": "canal",
+    "neeravari nale": "canal",
+
+    "ಹನಿ ನೀರಾವರಿ": "drip",
+    "ಡ್ರಿಪ್": "drip",
+    "drip": "drip",
+    "drip irrigation": "drip",
+    "hani": "drip",
+
+    "ತುಂತುರು": "sprinkler",
+    "ತುಂತುರು ನೀರಾವರಿ": "sprinkler",
+    "sprinkler": "sprinkler",
+    "thunturu": "sprinkler",
+
+    "ಮಳೆ ಆಶ್ರಿತ": "rainfed",
+    "ಮಳೆಯಾಶ್ರಿತ": "rainfed",
+    "ಖುಷ್ಕಿ": "rainfed",
+    "rainfed": "rainfed",
+    "dryland": "rainfed",
+    "male ashritha": "rainfed"
+  },
+
+  "assistance_needs": {
+    "ಸಹಾಯಧನ": "subsidy",
+    "ಸಬ್ಸಿಡಿ": "subsidy",
+    "subsidy": "subsidy",
+    "ಅನುದಾನ": "subsidy",
+    "sahayadhana": "subsidy",
+
+    "ಆರ್ಥಿಕ ಸಹಾಯ": "income_support",
+    "ಹಣಕಾಸು": "income_support",
+    "ಆದಾಯ ಬೆಂಬಲ": "income_support",
+    "ಹಣ": "income_support",
+    "support": "income_support",
+    "income support": "income_support",
+    "cash support": "income_support",
+
+    "ವಿಮೆ": "insurance",
+    "ಬೆಳೆ ವಿಮೆ": "insurance",
+    "ಪರಿಹಾರ": "insurance",
+    "ನಷ್ಟ ಪರಿಹಾರ": "insurance",
+    "crop insurance": "insurance",
+    "insurance": "insurance",
+    "vime": "insurance",
+    "bima": "insurance",
+    "fasal bima": "insurance",
+
+    "ನೀರಾವರಿ": "irrigation",
+    "ಹನಿ ನೀರಾವರಿ": "irrigation",
+    "ತುಂತುರು": "irrigation",
+    "ಡ್ರಿಪ್": "irrigation",
+    "ಬೋರ್‌ವೆಲ್": "irrigation",
+    "ಬಾವಿ": "irrigation",
+    "ನೀರು": "irrigation",
+    "drip": "irrigation",
+    "sprinkler": "irrigation",
+    "irrigation": "irrigation",
+    "neeravari": "irrigation",
+
+    "ಯಂತ್ರೋಪಕರಣ": "equipment",
+    "ಯಂತ್ರ": "equipment",
+    "ಉಪಕರಣ": "equipment",
+    "ಟ್ರ್ಯಾಕ್ಟರ್": "equipment",
+    "ಟಿಲ್ಲರ್": "equipment",
+    "ಸ್ಪ್ರೇಯರ್": "equipment",
+    "ಕೃಷಿ ಸಲಕರಣೆ": "equipment",
+    "equipment": "equipment",
+    "machinery": "equipment",
+    "tools": "equipment",
+    "tractor": "equipment",
+    "tiller": "equipment",
+    "sprayer": "equipment",
+
+    "ಮಣ್ಣು": "soil_health",
+    "ಗೊಬ್ಬರ": "soil_health",
+    "ರಸಗೊಬ್ಬರ": "soil_health",
+    "ಸಾವಯವ": "soil_health",
+    "ಮಣ್ಣು ಪರೀಕ್ಷೆ": "soil_health",
+    "soil": "soil_health",
+    "soil health": "soil_health",
+    "fertilizer": "soil_health",
+    "mannu": "soil_health",
+    "soil test": "soil_health",
+
+    "ಬೀಜ": "seeds",
+    "ಬಿತ್ತನೆ ಬೀಜ": "seeds",
+    "seeds": "seeds",
+    "beeja": "seeds"
+  },
+
+  "seasons": {
+    "ಮುಂಗಾರು": "kharif",
+    "ಮುಂಗಾರು ಬೆಳೆ": "kharif",
+    "kharif": "kharif",
+    "mungaru": "kharif",
+    "monsoon": "kharif",
+
+    "ಹಿಂಗಾರು": "rabi",
+    "ಹಿಂಗಾರು ಬೆಳೆ": "rabi",
+    "rabi": "rabi",
+    "hingaru": "rabi",
+    "winter": "rabi",
+
+    "ಬೇಸಿಗೆ": "summer",
+    "ಬೇಸಿಗೆ ಬೆಳೆ": "summer",
+    "summer": "summer",
+    "besige": "summer",
+    "zaid": "summer",
+
+    "ವಾರ್ಷಿಕ": "annual",
+    "annual": "annual",
+    "varshika": "annual",
+
+    "ಬಹುವಾರ್ಷಿಕ": "perennial",
+    "perennial": "perennial",
+    "bahuvarshika": "perennial"
+  },
+
+  "districts": {
+    "ಶಿವಮೊಗ್ಗ": "Shivamogga",
+    "shivamogga": "Shivamogga",
+    "shimoga": "Shivamogga",
+
+    "ಹಾಸನ": "Hassan",
+    "hassan": "Hassan",
+
+    "ಮೈಸೂರು": "Mysuru",
+    "mysuru": "Mysuru",
+    "mysore": "Mysuru",
+
+    "ಮಂಡ್ಯ": "Mandya",
+    "mandya": "Mandya",
+
+    "ಬೆಳಗಾವಿ": "Belagavi",
+    "belagavi": "Belagavi",
+    "belgaum": "Belagavi",
+
+    "ಧಾರವಾಡ": "Dharwad",
+    "dharwad": "Dharwad",
+
+    "ತುಮಕೂರು": "Tumakuru",
+    "tumakuru": "Tumakuru",
+    "tumkur": "Tumakuru",
+
+    "ಕೋಲಾರ": "Kolar",
+    "kolar": "Kolar",
+
+    "ಚಿಕ್ಕಮಗಳೂರು": "Chikkamagaluru",
+    "chikkamagaluru": "Chikkamagaluru",
+    "chikmagalur": "Chikkamagaluru",
+
+    "ದಾವಣಗೆರೆ": "Davangere",
+    "davangere": "Davangere",
+
+    "ಬಳ್ಳಾರಿ": "Ballari",
+    "ballari": "Ballari",
+    "bellary": "Ballari",
+
+    "ಬಾಗಲಕೋಟೆ": "Bagalkote",
+    "bagalkot": "Bagalkote",
+
+    "ವಿಜಯಪುರ": "Vijayapura",
+    "bijapur": "Vijayapura",
+    "vijayapura": "Vijayapura",
+
+    "ರಾಯಚೂರು": "Raichur",
+    "raichur": "Raichur",
+
+    "ಕೊಪ್ಪಳ": "Koppal",
+    "koppal": "Koppal",
+
+    "ಗದಗ": "Gadag",
+    "gadag": "Gadag",
+
+    "ಹಾವೇರಿ": "Haveri",
+    "haveri": "Haveri",
+
+    "ಉಡುಪಿ": "Udupi",
+    "udupi": "Udupi",
+
+    "ದಕ್ಷಿಣ ಕನ್ನಡ": "Dakshina Kannada",
+    "dakshina kannada": "Dakshina Kannada",
+    "ಮಂಗಳೂರು": "Dakshina Kannada",
+    "mangalore": "Dakshina Kannada",
+
+    "ಉತ್ತರ ಕನ್ನಡ": "Uttara Kannada",
+    "uttara kannada": "Uttara Kannada",
+    "ಕಾರವಾರ": "Uttara Kannada",
+    "karwar": "Uttara Kannada",
+
+    "ಚಿತ್ರದುರ್ಗ": "Chitradurga",
+    "chitradurga": "Chitradurga",
+
+    "ಚಾಮರಾಜನಗರ": "Chamarajanagar",
+    "chamarajanagar": "Chamarajanagar",
+
+    "ರಾಮನಗರ": "Ramanagara",
+    "ramanagara": "Ramanagara",
+
+    "ಬೆಂಗಳೂರು ನಗರ": "Bengaluru Urban",
+    "ಬೆಂಗಳೂರು": "Bengaluru Urban",
+    "bengaluru": "Bengaluru Urban",
+    "bangalore": "Bengaluru Urban",
+
+    "ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ": "Bengaluru Rural",
+    "bengaluru rural": "Bengaluru Rural",
+
+    "ಯಾದಗಿರಿ": "Yadgir",
+    "yadgir": "Yadgir",
+
+    "ಕಲಬುರಗಿ": "Kalaburagi",
+    "kalaburagi": "Kalaburagi",
+    "gulbarga": "Kalaburagi",
+
+    "ಬೀದರ್": "Bidar",
+    "bidar": "Bidar",
+
+    "ಚಿಕ್ಕಬಳ್ಳಾಪುರ": "Chikkaballapura",
+    "chikkaballapur": "Chikkaballapura",
+
+    "ವಿಜಯನಗರ": "Vijayanagara",
+    "vijayanagara": "Vijayanagara",
+
+    "ಕೊಡಗು": "Kodagu",
+    "kodagu": "Kodagu",
+    "coorg": "Kodagu",
+    "ಮಡಿಕೇರಿ": "Kodagu"
+  },
+
+  "taluks": {
+    "ಸಾಗರ": {"taluk": "Sagara", "district": "Shivamogga"},
+    "sagar": {"taluk": "Sagara", "district": "Shivamogga"},
+    "ತೀರ್ಥಹಳ್ಳಿ": {"taluk": "Thirthahalli", "district": "Shivamogga"},
+    "thirthahalli": {"taluk": "Thirthahalli", "district": "Shivamogga"},
+    "ಶಿಕಾರಿಪುರ": {"taluk": "Shikaripura", "district": "Shivamogga"},
+    "ಸೊರಬ": {"taluk": "Soraba", "district": "Shivamogga"},
+    "ಹೊಸನಗರ": {"taluk": "Hosanagara", "district": "Shivamogga"},
+    "ಭದ್ರಾವತಿ": {"taluk": "Bhadravathi", "district": "Shivamogga"},
+    "ಸಕಲೇಶಪುರ": {"taluk": "Sakleshpur", "district": "Hassan"},
+    "sakleshpur": {"taluk": "Sakleshpur", "district": "Hassan"},
+    "ಬೇಲೂರು": {"taluk": "Belur", "district": "Hassan"},
+    "belur": {"taluk": "Belur", "district": "Hassan"},
+    "ಆಲೂರು": {"taluk": "Alur", "district": "Hassan"},
+    "ಅರಸೀಕೆರೆ": {"taluk": "Arsikere", "district": "Hassan"},
+    "ಚನ್ನರಾಯಪಟ್ಟಣ": {"taluk": "Channarayapatna", "district": "Hassan"},
+    "ಹುಣಸೂರು": {"taluk": "Hunsur", "district": "Mysuru"},
+    "ನಂಜನಗೂಡು": {"taluk": "Nanjangud", "district": "Mysuru"},
+    "ಮದ್ದೂರು": {"taluk": "Maddur", "district": "Mandya"},
+    "ಪಾಂಡವಪುರ": {"taluk": "Pandavapura", "district": "Mandya"},
+    "ಶಿರಸಿ": {"taluk": "Sirsi", "district": "Uttara Kannada"},
+    "sirsi": {"taluk": "Sirsi", "district": "Uttara Kannada"},
+    "ಸಿದ್ಧಾಪುರ": {"taluk": "Siddapur", "district": "Uttara Kannada"},
+    "ಕುಮಟಾ": {"taluk": "Kumta", "district": "Uttara Kannada"},
+    "ಕುಂದಾಪುರ": {"taluk": "Kundapura", "district": "Udupi"},
+    "ಕಾರ್ಕಳ": {"taluk": "Karkala", "district": "Udupi"},
+    "ಪುತ್ತೂರು": {"taluk": "Puttur", "district": "Dakshina Kannada"},
+    "ಬಂಟ್ವಾಳ": {"taluk": "Bantwal", "district": "Dakshina Kannada"},
+    "ಬೆಳ್ತಂಗಡಿ": {"taluk": "Belthangady", "district": "Dakshina Kannada"},
+    "ಮೂಡಿಗೆರೆ": {"taluk": "Mudigere", "district": "Chikkamagaluru"},
+    "ಕೊಪ್ಪ": {"taluk": "Koppa", "district": "Chikkamagaluru"},
+    "ಶೃಂಗೇರಿ": {"taluk": "Sringeri", "district": "Chikkamagaluru"}
+  }
+}
